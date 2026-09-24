@@ -8,7 +8,7 @@ This repository contains the Python code that generates **Figure 2**, **Figure 3
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<TU-USUARIO>/maintained-coupling-kuramoto/blob/main/Figure2_Kuramoto_MainDynamics.ipynb)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<TU-USUARIO>/maintained-coupling-kuramoto/blob/main/Figure3_Attractor_Landscape.ipynb)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22928314.svg)](https://doi.org/10.5281/zenodo.22928314)
 
 ---
 
