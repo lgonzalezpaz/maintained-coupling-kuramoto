@@ -1,0 +1,76 @@
+{
+  "title": "Memory as Maintained Coupling: A Kuramoto Model Formalization of Synchronization Dynamics and Developmental Pruning in Neural Systems",
+  "version": "2.0.0",
+  "upload_type": "software",
+  "publication_date": "2026-11-04",
+  "description": "Complete open-source Python simulation library, reproducibility suite, Jupyter/Colab notebooks, empirical hippocampal CA3 developmental pruning calibration, 2x2 factorial Kaplan-Meier escape analysis, Kramers scaling verification, and manuscript files for 'Memory as Maintained Coupling: A Kuramoto Model Formalization of Synchronization Dynamics and Developmental Pruning in Neural Systems'.",
+  "license": "MIT",
+  "creators": [
+    {
+      "name": "Alvarado, Ysaías J.",
+      "affiliation": "Instituto Venezolano de Investigaciones Científicas (IVIC), Centro de Biomedicina Molecular (CBM), Maracaibo, Venezuela",
+      "orcid": "0000-0002-2709-409X"
+    },
+    {
+      "name": "Quintero, Maritza",
+      "affiliation": "Servicio Autónomo Hospital Universitario de Maracaibo (SAHUM) & Universidad del Zulia, Maracaibo, Venezuela"
+    },
+    {
+      "name": "Cardozo-Urdaneta, Alejandro",
+      "affiliation": "Instituto Venezolano de Investigaciones Científicas (IVIC), Centro de Biomedicina Molecular (CBM), Maracaibo, Venezuela",
+      "orcid": "0009-0009-7400-2950"
+    },
+    {
+      "name": "Lossada, Carlos",
+      "affiliation": "Instituto Venezolano de Investigaciones Científicas (IVIC), Centro de Biomedicina Molecular (CBM), Maracaibo, Venezuela",
+      "orcid": "0000-0003-3346-7101"
+    },
+    {
+      "name": "Marrero-Ponce, Yovani",
+      "affiliation": "Universidad San Francisco de Quito (USFQ), Quito, Ecuador & Universidad Panamericana, Ciudad de México, México",
+      "orcid": "0000-0003-2721-1142"
+    },
+    {
+      "name": "Martinez-Ríos, Félix",
+      "affiliation": "Universidad Panamericana, Facultad de Ingeniería, Ciudad de México, México",
+      "orcid": "0000-0002-2346-5922"
+    },
+    {
+      "name": "Pérez-Castillo, Yunierkis",
+      "affiliation": "Bio-Chemoinformatics Research Group, Universidad de Las Américas (UDLA), Quito, Ecuador",
+      "orcid": "0000-0002-3710-0035"
+    },
+    {
+      "name": "Delgado, Alexander",
+      "affiliation": "Instituto Venezolano de Investigaciones Científicas (IVIC), Centro de Biomedicina Molecular (CBM), Maracaibo, Venezuela",
+      "orcid": "0000-0003-2426-779X"
+    },
+    {
+      "name": "González-Paz, Lenin",
+      "affiliation": "Instituto Venezolano de Investigaciones Científicas (IVIC), Centro de Biomedicina Molecular (CBM), Maracaibo, Venezuela",
+      "orcid": "0000-0003-0023-7342"
+    }
+  ],
+  "keywords": [
+    "Kuramoto model",
+    "maintained coupling",
+    "hippocampal CA3",
+    "synaptic pruning",
+    "Hebbian plasticity",
+    "stochastic resonance",
+    "Kramers escape rate",
+    "computational neuroscience"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/lgonzalezpaz/maintained-coupling-kuramoto",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "10.5281/zenodo.22928314",
+      "relation": "isVersionOf",
+      "scheme": "doi"
+    }
+  ]
+}

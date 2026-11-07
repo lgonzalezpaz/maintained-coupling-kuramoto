@@ -1,0 +1,73 @@
+========================================================================================
+GITHUB & ZENODO REPRODUCIBILITY PACKAGE MANIFEST (v2.0.0)
+Repository: https://github.com/lgonzalezpaz/maintained-coupling-kuramoto
+Zenodo DOI: 10.5281/zenodo.22928314
+Title: Memory as maintained coupling: a Kuramoto model formalization of synchronization
+       dynamics and developmental pruning in neural systems
+========================================================================================
+
+Relative Path                                    |   Size (Bytes) | SHA-256 Checksum
+----------------------------------------------------------------------------------------------------------------------------------------
+.zenodo.json                                     |          3,193 | 05ec9bb7198904f944afe9da35259d7e2447b2efad03e7e1155ce44dfc1478c4
+aggregate_metrics.py                             |          7,111 | 621eada463a40dbac9409bc1435a6e98eb7d76e9db235c6ba12beb6d4198a98f
+build_manuscript_docx.py                         |         15,337 | 99ec45bb43752b3206665e15a8ad1982372060add425c6cfdf1af04c53c957ad
+CHANGELOG.md                                     |          2,721 | 70c83051255eeb14b17dec2befa3292e83a597335f97070039220845b0984961
+CITATION.cff                                     |          1,654 | 31eec0b7727f5a4202f7076fb74f099c50ebb8db4380e4611043b6e75bab7ab0
+environment.yml                                  |            264 | 56784b549bf3e5daf3d047f8bf40227465df2823233b442c73bf1229a37dda5e
+Figure 1.png                                     |      1,115,457 | c664514410dec06e71ba8e215d8ce01b54918855d8580d82adb65a5ea54b35df
+Figure 2.png                                     |      1,559,999 | 12b784e2445efa26db50bcff5510d3140d66f1fc3b45ac67ea475b6c1573a6b2
+Figure 3.png                                     |        699,773 | 0f00c9eed1264391d60eccfece09ddd6195a6669373dc5eb6dbdfd55e565a96a
+Figure S1.png                                    |        536,229 | 508484c87cda9af0082e91bbae610daaf72a80daa16f17a85c0491de82c73d0a
+Figure S2.png                                    |        715,515 | 5e3c499a9b0082399c648fd42bde141dc45699dc8dd81abaa48a481642d57fb8
+Figure1.pdf                                      |         70,958 | baf5e39f9165c87f77b0650c92dacbe64d60d2fa25dc479b016980c47e12b1a1
+Figure1.png                                      |      1,115,457 | c664514410dec06e71ba8e215d8ce01b54918855d8580d82adb65a5ea54b35df
+Figure1_Conceptual_Framework.py                  |         11,310 | 50206fe3c9222809342661870ffda14a36fd141ca9e281d7e6dccc2a27b40b66
+Figure2.pdf                                      |         65,911 | 82ed384e5b03f8ce9ea0723528342ed33c829c2a918269016fad73ed24e0a18e
+Figure2.png                                      |      1,559,999 | 12b784e2445efa26db50bcff5510d3140d66f1fc3b45ac67ea475b6c1573a6b2
+Figure2_Kuramoto_MainDynamics.ipynb              |         51,992 | d32ca88d0a34a7a02895eb21a83c84e5743b60fe2f8dd2b669fb36b89b08917a
+Figure2_Kuramoto_MainDynamics.py                 |         41,058 | ea05d2d6eaec2d9b9a1d11bd0ad50a28dc013000a12db10384a16850935f18f3
+Figure3.pdf                                      |         54,176 | 74d216c91b22279e802d6afbad7d2199c3f0c71cde43b660350443c1fc2a3f87
+Figure3.png                                      |        699,773 | 0f00c9eed1264391d60eccfece09ddd6195a6669373dc5eb6dbdfd55e565a96a
+Figure3_Attractor_Landscape.ipynb                |         36,947 | 8871dd25a3231b5857b1486499afc6096159a20188236fda0af6b4f1dd644105
+Figure3_Attractor_Landscape.py                   |         28,651 | 9c24fa955847c362a4701446ee38d7e3256156e7aebd87b09d5d0d6e7e99d241
+FigureS1.pdf                                     |         45,310 | 950cfefb05d3390e3aabb8f6aa983c825c52a6d6506ecd004441e3ba694cb036
+FigureS1.png                                     |        536,229 | 508484c87cda9af0082e91bbae610daaf72a80daa16f17a85c0491de82c73d0a
+FigureS2.pdf                                     |         45,668 | c5a094affabacbb835a163d62410576e2b8430757ccf355ea63ea1b021052164
+FigureS2.png                                     |        715,515 | 5e3c499a9b0082399c648fd42bde141dc45699dc8dd81abaa48a481642d57fb8
+LICENSE                                          |          1,208 | cd12eaf1187bf0508a32c994ebaae51bd385eefbe3f3f359f703875da5785a89
+make_notebooks.py                                |          3,360 | 3a3974faddf36ca418aa74916e2982362499931c52871e73cd18a97a669c6861
+Manuscript.docx                                  |      3,153,715 | 24f03066f734ce6ec78f4d2e3706582248844bd7093af4ecba176458d52b07d1
+Manuscript.md                                    |         79,252 | 7ddc2c6e11013f20dea1ba93262e68ff8436791097fd0b9877ca7aecb1053e5a
+Manuscript_Complete_with_Figures.docx            |      3,153,715 | 24f03066f734ce6ec78f4d2e3706582248844bd7093af4ecba176458d52b07d1
+Manuscript_Text_Only.docx                        |         83,284 | 306befe6ee9cde266da0e5b840f4b21c392513d1255871812aff12c02366eeca
+omml_equations.py                                |         22,434 | fb9a17e084ac7468bd47c56c3a25a6418eb29827fd4a8b440b68730918bb29f4
+output/Figure1.pdf                               |         70,958 | 2ff7d1ef42f1999e4646933710aafed269d2caa0af82a67da2176f40de657ad4
+output/Figure1.png                               |      1,115,457 | c664514410dec06e71ba8e215d8ce01b54918855d8580d82adb65a5ea54b35df
+output/Figure2.pdf                               |         65,911 | ce921fc3ad79be11da6d643adc2f411e965666d1f7de9fa69d16fa3f421162bc
+output/Figure2.png                               |      1,559,999 | 12b784e2445efa26db50bcff5510d3140d66f1fc3b45ac67ea475b6c1573a6b2
+output/Figure3.pdf                               |         54,176 | c2354192fc8759381807261782229fafbe496ddc4f2561295ae04b010c8b0db8
+output/Figure3.png                               |        699,773 | 0f00c9eed1264391d60eccfece09ddd6195a6669373dc5eb6dbdfd55e565a96a
+output/FigureS1.pdf                              |         45,310 | 35a6799eb05afa8469427e2cfa07307ce9b8460d3e6ba15a4efd5cc1de04e6d7
+output/FigureS1.png                              |        536,229 | 508484c87cda9af0082e91bbae610daaf72a80daa16f17a85c0491de82c73d0a
+output/FigureS2.pdf                              |         45,668 | 5ae694bbc156b2636846c2629937f20920461e781ba882893deae74dbe96cadf
+output/FigureS2.png                              |        715,515 | 5e3c499a9b0082399c648fd42bde141dc45699dc8dd81abaa48a481642d57fb8
+package_release.py                               |          2,859 | 0846e847e24e237732fda24348c9d8d12fa4694f843c60ead5020beb67f05e2a
+README.md                                        |          8,045 | 10054961c7407cd2e93c7505b0c5903e83c57fd7258cdde125fa728b1741805b
+requirements.txt                                 |            110 | 3d26bd73ac85b9ea50240b71591b91ea305d69a56c00a61af5729a987569418b
+Response_to_Reviewers.docx                       |         52,204 | 59867e825b4260ccebf552db5a95debeba2dca23fb272fbc9447cd9270863579
+Response_to_Reviewers.md                         |         26,063 | eacae857f14fe2dcdf6f5e588bbfd60327650b819147adbe1787b61355e9f6a2
+results/developmental_pruning_trajectory.csv     |         10,173 | 3309009719874bb5782df33df38d6f152edd415e9fada50adb5711961d996348
+results/kramers_scaling_analysis.csv             |            390 | 2ae3d03cf6e2a96cb03bdd42bf07d7d84127f4ba0be9bddbe72c08f0cbb3738f
+results/multi_population_scaling.csv             |            239 | b7de2b4bb5eab13187dacb86af4af5054f4dd6162fbd530858b52de585ab2586
+results/noise_stability_ite.csv                  |            841 | 5351a639d93d05b70235f9366c70b7dc2078c8b10ef900ba4d0c6ba3566e420a
+results/prcc_global_sensitivity.csv              |            346 | 0d3100d0c56a40202d390bb326501d7e7c1821d11af726d27755c5c8d4406939
+results/summary_metrics.json                     |          5,310 | 991904626e401607288de4a24f8a059a810737069533183bb205411f0c35c783
+results/summary_metrics_figure2.json             |          1,653 | f74733c67f9126abf31f868ec77f849da07fcccfce6da41148113d94af28a7f9
+results/summary_metrics_figure3.json             |          1,570 | 83407cc4cf00c3df7a38aeaecbcdfd674b4ba54ef59439a1ea7807b3cd2b5721
+results/two_by_two_factorial_escape.csv          |            370 | 3733f6c6e179ca2f3e66323cf4a543440c90da322cfca98221259f4161721e97
+simulation_core.py                               |         19,951 | a129523c5fc988c3385df2f93f4256072078e9199744e558afe6a729ed2f16e1
+Supplementary Material.docx                      |      1,062,771 | ad18465a93c0a90344f3e52da0acd643c972d36740e2c09c4ec1713c08f9d3e2
+Supplementary_Material.docx                      |      1,062,771 | ad18465a93c0a90344f3e52da0acd643c972d36740e2c09c4ec1713c08f9d3e2
+Supplementary_Material.md                        |         13,990 | 00537c1f07b38cffb213c3e5e606242f9405124d2153611091865e2401bf1ced
+----------------------------------------------------------------------------------------------------------------------------------------
+Total verified files: 61
